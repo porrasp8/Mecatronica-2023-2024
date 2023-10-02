@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="trazos_pluma.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="553.36488"
+     inkscape:cy="477.28618"
+     inkscape:window-width="1866"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-center="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="79.492545,137.4778"
+       orientation="1,0"
+       id="guide2762" />
+    <sodipodi:guide
+       position="112.45988,87.161332"
+       orientation="1,0"
+       id="guide2764" />
+    <sodipodi:guide
+       position="-66.06475,103.63975"
+       orientation="0,-1"
+       id="guide2766" />
+    <sodipodi:guide
+       position="-1.0742236,70.338822"
+       orientation="0,-1"
+       id="guide2996" />
+    <sodipodi:guide
+       position="97.97884,154.68216"
+       orientation="1,0"
+       id="guide3074" />
+    <sodipodi:guide
+       position="33.74153,87.161332"
+       orientation="0,-1"
+       id="guide3076" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient896"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop892" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop894" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.163348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.588522,60.354344 25.152584,-42.91004 16.590199,34.659948 23.16124,-30.507489 8.98251,20.433354 c 0,0 7.05945,59.434413 -56.397565,27.966861 -63.457015,-31.467556 18.828665,56.425212 18.828665,56.425212"
+       id="path2082" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 79.633119,194.73869 97.978842,142.31784 112.62773,193.74 166.44171,209.43583 112.62773,227.89276 97.97884,286.20734 79.492545,227.21507 28.788612,209.83867 Z"
+       id="path2703"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:3.77953;stroke-opacity:1"
+       id="path3366"
+       sodipodi:type="arc"
+       sodipodi:cx="97.880386"
+       sodipodi:cy="213.85345"
+       sodipodi:rx="68.688416"
+       sodipodi:ry="72.652756"
+       sodipodi:start="6.2305738"
+       sodipodi:end="6.2220054"
+       sodipodi:arc-type="arc"
+       d="m 166.47376,210.03285 a 68.688416,72.652756 0 0 1 -64.83431,76.36448 68.688416,72.652756 0 0 1 -72.336333,-68.41248 68.688416,72.652756 0 0 1 64.524411,-76.65757 68.688416,72.652756 0 0 1 72.612762,68.08406"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.538,107.21357 23.85887,-39.437895 -17.78511,1.134936 28.69681,-20.111352 6.26068,36.814932 -9.86132,-14.666632 -21.69433,40.342881 z"
+       id="path4216"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
